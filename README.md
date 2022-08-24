@@ -1,4 +1,4 @@
-Sample code
+Sample deleted the word code!!
 
 ##welcome to github tutorial!!
 
