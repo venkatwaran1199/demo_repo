@@ -2,6 +2,6 @@ Sample deleted the word code!!
 
 ##welcome to github tutorial!!
 
-Added second Edited text at 16:10
+Added second deleted
 
 added new line at wednesday
